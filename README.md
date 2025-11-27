@@ -1,6 +1,10 @@
-# Fibonacci Sequence Generator
+## Fibonacci Sequence Generator
 
-A Python application that generates Fibonacci sequences with multiple methods and a user-friendly GUI.
+A powerful Python application that generates Fibonacci sequences using multiple methods with both command-line and graphical interfaces.
+
+![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GUI](https://img.shields.io/badge/GUI-tkinter-orange)
 
 ## Features
 
@@ -10,5 +14,9 @@ A Python application that generates Fibonacci sequences with multiple methods an
 - 📊 Golden ratio calculation
 - 🧪 Unit tests included
 - 📚 Well-documented code
+
+### Prerequisites
+- Python 3.6 or higher
+- tkinter (usually included with Python)
 
 
