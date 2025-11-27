@@ -11,4 +11,4 @@ A Python application that generates Fibonacci sequences with multiple methods an
 - 🧪 Unit tests included
 - 📚 Well-documented code
 
-## Project Structure
+
